@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Thato!
-
-<h1>About Me</h1>
+<h1>About Me👩🏽‍💻</h1>
 
 
 <p>I'm an aspiring Software Developer currently enrolled in a Software Development Learnership.
