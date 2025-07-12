@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Thato!
-<h1>About Me👩🏽‍💻</h1>
 <a href="https://www.linkedin.com/in/thatomphahlele/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="border-radius: 30px;" />
 </a>
-
-
+<h1>About Me👩🏽‍💻</h1>
 
 <p>I'm an aspiring Software Developer currently enrolled in a Software Development Learnership.
 I recently earned my GitHub Fundamentals Certificate and am currently working toward my Microsoft Azure Fundamentals Certification.</p>
