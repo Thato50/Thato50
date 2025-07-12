@@ -15,20 +15,23 @@ I recently earned my GitHub Fundamentals Certificate and am currently working to
 
 I’m especially passionate about growing into a full-stack developer, and I love learning by building and exploring new tech.
 
-🚀 What I'm Up To
-📚 Sharpening my skills in JavaScript and React
+<h3>🚀 What I'm Up To</h3>
+<ul>
+  <li>📚 Sharpening my skills in JavaScript and React</li>
+  <li>☁️ Studying for the Microsoft Azure Fundamentals (AZ-900) certification</li>
+  <li>💻 Exploring open-source projects to deepen my understanding</li>
+  <li>🧠 Looking forward to participating in my first hackathon soon!</li>
+</ul>
 
-☁️ Studying for the Microsoft Azure Fundamentals (AZ-900) certification
+<h3>🎯 What I’d Like to Learn Next</h3>
+<ul>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>MongoDB</li>
+  <li>Azure DevOps</li>
+  <li>GitHub Actions</li>
+  
+</ul>
 
-💻 Exploring open-source projects to deepen my understanding
-
-🧠 Looking forward to participating in my first hackathon soon!
-
-🎯 What I’d Like to Learn Next
-Node.js
-Express
-MongoDB
-Azure DevOps
-GitHub Actions
 
 
