@@ -2,10 +2,13 @@
 About Me
 
 🧠 About Me
+I'm an aspiring Software Developer currently enrolled in a Software Development Learnership.
+I recently earned my GitHub Fundamentals Certificate and am currently working toward my Microsoft Azure Fundamentals Certification.
 
-I'm an aspiring software developer currently learning React and working toward becoming a full-stack developer.  
-I’ve built a foundation in HTML, CSS, and JavaScript, and enjoy solving real problems through code.
+My primary tech skills include:
+*JavaScript – along with HTML and CSS for building responsive web interfaces
+*React
 
-Curious, driven, and always learning — one line of code at a time.
+I’m especially passionate about growing into a full-stack developer, and I love learning by building and exploring new tech.
 
 
