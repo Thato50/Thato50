@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Thato!
 <h1>About Me👩🏽‍💻</h1>
+<p>Connect with me:<a href="https://www.linkedin.com/in/thatomphahlele/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  /p>
+
 
 
 <p>I'm an aspiring Software Developer currently enrolled in a Software Development Learnership.
