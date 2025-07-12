@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Thato!
+About Me
 
-I'm an aspiring software developer currently focused on learning web development.  
-I enjoy building projects that solve real problems and help me grow my skills step by step.  
+🧠 About Me
+
+I'm an aspiring software developer currently learning React and working toward becoming a full-stack developer.  
+I’ve built a foundation in HTML, CSS, and JavaScript, and enjoy solving real problems through code.
+
 Curious, driven, and always learning — one line of code at a time.
+
 
