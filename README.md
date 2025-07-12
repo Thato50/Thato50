@@ -2,7 +2,7 @@
 <h1>About Me👩🏽‍💻</h1>
 <p>Connect with me:<a href="https://www.linkedin.com/in/thatomphahlele/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  /p>
+</a></p>
 
 
 
