@@ -1,9 +1,5 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>👋 Hi, I'm Thato!</h1>
-  <a href="https://www.linkedin.com/in/thatomphahlele/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="border-radius: 30px;" />
-  </a>
-</div>
+
+<h1>👋 Hi, I'm Thato!</h1>
 
 <h1>About Me👩🏽‍💻</h1>
 
