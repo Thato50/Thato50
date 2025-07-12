@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Thato!
 <h1>About Me👩🏽‍💻</h1>
-<p>Connect with me:<a href="https://www.linkedin.com/in/thatomphahlele/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a></p>
+<a href="https://www.linkedin.com/in/thatomphahlele/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="border-radius: 30px;" />
+</a>
 
 
 
