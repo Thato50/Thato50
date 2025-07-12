@@ -1,13 +1,17 @@
 # 👋 Hi, I'm Thato!
-🧠About Me
+
+<h1>About Me</h1>
 
 
-I'm an aspiring Software Developer currently enrolled in a Software Development Learnership.
-I recently earned my GitHub Fundamentals Certificate and am currently working toward my Microsoft Azure Fundamentals Certification.
+<p>I'm an aspiring Software Developer currently enrolled in a Software Development Learnership.
+I recently earned my GitHub Fundamentals Certificate and am currently working toward my Microsoft Azure Fundamentals Certification.</p>
 
-My primary tech skills include:
--JavaScript – along with HTML and CSS for building responsive web interfaces
--React
+<h3>My primary tech skills include:</h3>
+<ul>
+  <li>JavaScript – along with HTML and CSS for building responsive web interfaces</li>
+  <li>React</li>
+</ul> <!-- To make it a list because it appeared as a paragraph at first.-->
+
 
 I’m especially passionate about growing into a full-stack developer, and I love learning by building and exploring new tech.
 
@@ -19,5 +23,12 @@ I’m especially passionate about growing into a full-stack developer, and I lov
 💻 Exploring open-source projects to deepen my understanding
 
 🧠 Looking forward to participating in my first hackathon soon!
+
+🎯 What I’d Like to Learn Next
+Node.js
+Express
+MongoDB
+Azure DevOps
+GitHub Actions
 
 
