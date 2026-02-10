@@ -7,7 +7,7 @@ I'm a software developer who loves turning ideas into functional web application
 When I'm not coding, I'm probably thinking about coding. Or debugging. Mostly debugging. 😅
 
 🎓 **Certified in:** Microsoft Azure Fundamentals (AZ-900) & GitHub Foundations  
-🌱 **Currently:** Completing my Software Development learnership with hands-on workplace experience
+
 
 ---
 
