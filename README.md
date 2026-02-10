@@ -1,37 +1,36 @@
+# 👋 Hi, I'm Thato Mphahlele!
 
-<h1>👋 Hi, I'm Thato!</h1>
+## About Me 👩🏽‍💻
 
-<h1>About Me👩🏽‍💻</h1>
+I'm a **Junior Software Developer** with hands-on training through GirlCode's NQF 5 learnership. I build web applications using modern technologies and am passionate about full-stack development.
 
-<p>I'm an aspiring Software Developer currently enrolled in a Software Development Learnership.
-I recently earned my GitHub Fundamentals Certificate and am currently working toward my Microsoft Azure Fundamentals Certification.</p>
+🎓 **Microsoft Azure Fundamentals (AZ-900)** and **GitHub Foundations** certified  
+💼 Currently completing my Software Development learnership with workplace integration experience
 
-<h3>My primary tech skills include:</h3>
-<ul>
-  <li>JavaScript – along with HTML and CSS for building responsive web interfaces</li>
-  <li>React</li>
-</ul> <!-- To make it a list because it appeared as a paragraph at first.-->
+## 🛠️ Tech Stack
 
+**Languages:** Python, C#, JavaScript  
+**Frontend:** HTML, CSS, React, React Native, Vue.js  
+**Backend:** C# (.NET), Node.js  
+**Databases:** SQL Server, Firebase  
+**Tools:** Git, GitHub  
+**Cloud:** Microsoft Azure
 
-I’m especially passionate about growing into a full-stack developer, and I love learning by building and exploring new tech.
+## 🚀 Featured Projects
 
-<h3>🚀 What I'm Up To</h3>
-<ul>
-  <li>📚 Sharpening my skills in JavaScript and React</li>
-  <li>☁️ Studying for the Microsoft Azure Fundamentals (AZ-900) certification</li>
-  <li>💻 Exploring open-source projects to deepen my understanding</li>
-  <li>🧠 Looking forward to participating in my first hackathon soon!</li>
-</ul>
+### SmartBus App
+A collaborative web application built with React for real-time bus tracking and management.
 
-<h3>🎯 What I’d Like to Learn Next</h3>
-<ul>
-  <li>Node.js</li>
-  <li>Express</li>
-  <li>MongoDB</li>
-  <li>Azure DevOps</li>
-  <li>GitHub Actions</li>
-  
-</ul>
+### E-Commerce Platform
+Full-stack e-commerce application developed using C# with features including user authentication and product management.
 
+*Check out my pinned repositories below to see more of my work!*
 
+## 📫 Let's Connect
 
+- **LinkedIn:** [linkedin.com/in/thatomphahlele](https://www.linkedin.com/in/thatomphahlele/)
+- **Email:** thatomphahlele57@gmail.com
+
+---
+
+💡 *Always learning, always building.*
