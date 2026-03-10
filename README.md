@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Thato!
+https://thato50.github.io/Portfolio/
 
 ## 💻 Junior Software Developer | Building Cool Stuff with Code
 
